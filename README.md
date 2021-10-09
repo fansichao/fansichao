@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- Talk with me by [Email](mailto:mitscherlich36@gmail.com)
-- Follow me on [Twitter](https://twitter.com/MitscherlichW) [bilibili](https://space.bilibili.com/17636754) or [掘金](https://juejin.cn/user/342703356518632)
-- Read more about my [Blog](https://blog.mitscherlich.me/)
+- Talk with me by [Email](fansichao@126.com)
+- Follow me on [zhihu](https://www.zhihu.com/people/superscfan) [bilibili](https://space.bilibili.com/5915530) or [CSDN](https://blog.csdn.net/qq_21165007)
+- Read more about my [Blog](https://fansichao.github.io/blog)
 
 🏗 **Definitions**
 
