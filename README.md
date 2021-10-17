@@ -39,3 +39,17 @@ const fansichao = {
   projects: ['CRM', 'FTP', 'FinanceModel', 'LargeDataCleanFrame']
 }
 ```
+
+🏗 **Github**
+
+```bash
+- fansichao.github.io HTML-repo
+  - fansichao-html          resume-html
+  - blog-html               blog-html
+ - blog-main                blog-hexo
+ - article-main             markdown
+ - fansichao-main          resume-code
+- Projects
+```
+
+
