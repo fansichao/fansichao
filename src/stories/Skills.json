@@ -1,0 +1,10 @@
+{
+  "question": "你都熟悉哪些专业技能？",
+  "answers": [
+    "熟练Linux、Python、Oracle等",
+    "掌握Django/Flask、AngularJS、Pandas等",
+    "熟悉Docker、Neo4j、Elasticsearch、服务器部署运维等",
+    "大数据组件 Spark/Hive/PrestoDB/Flink 等开发使用",
+    "全栈开发/前后端开发/服务器部署运维曾参与过, 且熟练掌握多种高效开发工具. "
+  ]
+}

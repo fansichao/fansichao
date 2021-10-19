@@ -13,11 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+代码环境说明:
+
+- node v14.18.0
+
+npm install
+npm run build
+
 -->
 
-
 - Talk with me by [Email](fansichao@126.com)
-- Follow me on [zhihu](https://www.zhihu.com/people/superscfan) [bilibili](https://space.bilibili.com/5915530) or [CSDN](https://blog.csdn.net/qq_21165007)
+- Follow me on [zhihu](https://www.zhihu.com/people/superscfan) [bilibili](https://space.bilibili.com/5915530)
+  or [CSDN](https://blog.csdn.net/qq_21165007)
 - Read more about my [Blog](https://fansichao.github.io/blog)
 
 🏗 **Definitions**
@@ -36,20 +45,7 @@ const fansichao = {
     devOps: ['Docker🐳', 'Apache/Nginx', 'Git/Svn'],
     databases: ['Mysql', 'Oracle', 'Elasticsearch', 'Neo4j', 'HugeGraph']
   },
-  projects: ['CRM', 'FTP', 'FinanceModel', 'LargeDataCleanFrame']
+  projects: ['CRM', 'FTP', 'FinancialMonitorModel', 'LargeDataCleanFrame']
 }
 ```
-
-🏗 **Github**
-
-```bash
-- fansichao.github.io HTML-repo
-  - fansichao-html          resume-html
-  - blog-html               blog-html
- - blog-main                blog-hexo
- - article-main             markdown
- - fansichao-main          resume-code
-- Projects
-```
-
 

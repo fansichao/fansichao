@@ -1,0 +1,48 @@
+{
+  "menu": [
+    {
+      "id": "Personal",
+      "text": "关于我",
+      "menu": [
+        {
+          "id": "Achievement",
+          "text": "个人成就"
+        },
+        {
+          "id": "Education",
+          "text": "教育经历"
+        },
+        {
+          "id": "Work",
+          "text": "工作经历"
+        },
+        {
+          "id": "Hobbits",
+          "text": "兴趣爱好"
+        }
+      ]
+    },
+    {
+      "id": "Skills",
+      "text": "专业技能"
+    },
+    {
+      "id": "Site",
+      "text": "相关站点",
+      "menu": [
+        {
+          "id": "Github",
+          "text": "Github"
+        },
+        {
+          "id": "Home",
+          "text": "站点首页"
+        },
+        {
+          "id": "ResumePdf",
+          "text": "简历信息"
+        }
+      ]
+    }
+  ]
+}
