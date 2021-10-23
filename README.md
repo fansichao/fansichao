@@ -33,19 +33,26 @@ npm run build
 
 ```js
 const fansichao = {
-  code: ['Python', 'Go', 'Linux'],
-  askMeAbout: ['Full stack engineer', 'Tech', 'Large Data engineer'],
-  technologies: {
-    frontEnd: {
-      js: ['Vue', 'AngularJs', 'Jquery', 'Echarts']
+    code: ['Python', 'Go', 'Linux'],
+    askMeAbout: ['Full stack engineer', 'Tech', 'Large Data engineer'],
+    technologies: {
+        frontEnd: {
+            js: ['Vue', 'AngularJs', 'Jquery', 'Echarts']
+        },
+        backEnd: {
+            js: ['Django', 'Flask', 'NodeJs', 'Pandas/Numpy', 'SqlAlchemy', 'CDH']
+        },
+        devOps: ['Docker🐳', 'Apache/Nginx', 'Git/Svn'],
+        databases: ['Mysql', 'Oracle', 'Elasticsearch', 'Neo4j', 'HugeGraph']
     },
-    backEnd: {
-      js: ['Django', 'Flask', 'NodeJs', 'Pandas/Numpy', 'SqlAlchemy', 'CDH']
-    },
-    devOps: ['Docker🐳', 'Apache/Nginx', 'Git/Svn'],
-    databases: ['Mysql', 'Oracle', 'Elasticsearch', 'Neo4j', 'HugeGraph']
-  },
-  projects: ['CRM', 'FTP', 'FinancialMonitorModel', 'LargeDataCleanFrame']
+    projects: ['CRM', 'FTP', 'FinancialMonitorModel', 'LargeDataCleanFrame']
 }
 ```
+
+🏗 **GitHubTree**
+
+- [GitHub-HomePage 首页](https://github.com/fansichao/fansichao.github.io)
+- [GitHub-Resume 介绍](https://github.com/fansichao/fansichao)
+- [GitHub-Blog 博客](https://github.com/fansichao/Blog)
+- [GitHub-Article 文章](https://github.com/fansichao/Article)
 
